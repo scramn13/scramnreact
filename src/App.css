@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  max-width: 600px;
+  margin: auto;
+  padding: 1em;
+}
+
+.App-logo {
+  /* animation: App-logo-spin infinite 20s linear; */
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222222;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.App-footer {
+  background-color: #a9a9a9;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.mainImage {
+  width: 100%;
+  align-self: center;
+  /* margin: 4%; */
+  -webkit-box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.75);
+}
+
+.socialLinkLogos {
+  max-width: 260px;
+  cursor: pointer;
+}
+
+.socialLinkLogos:hover {
+  max-width: 280px;
+  cursor: pointer;
+}
+
+body i {
+  font-family: 'FontAwesome' !important;
+  font-style: normal;
+}
+
+hr {
+  width: 100%;
+  /* max-width: 800px; */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.socialLinks {
+  font-size: 2em;
+  color: red;
+}
+
+a {
+  color: #ff2247;
+}
+
+a:hover {
+  color: #d50024;
+}
+
+.socialLinks a {
+  font-size: 1.4em;
+  /* color: #ff2247; */
+  display: block;
+  padding: 0.2em;
+}
+
+.socialLinks a:hover {
+  font-size: 1.6em;
+  /* color: #ff0832; */
+}
