@@ -37,7 +37,7 @@ class App extends Component {
             <img
               src={`${
                 process.env.PUBLIC_URL
-              }/images/scramn-otw-home-fishscales-nappy-roots-jozepistarfire.jpg`}
+              }/images/scramn-on-the-way-home-otw-home-fishscales-nappy-roots.jpg`}
               className="mainImage"
             />
           </a>
@@ -46,7 +46,7 @@ class App extends Component {
               href="https://play.google.com/store/music/album/Scramn_Otw_Home_feat_Fish_Scales_Jozepi_Starfire?id=Bnujj2plmigtkqcykz6a6fnpbee"
               target="_blank"
             >
-              New Single - OTW Home
+              New Single - On The Way Home / OTW Home
             </a>
           </h3>
           <h4>
