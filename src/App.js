@@ -39,6 +39,7 @@ class App extends Component {
                 process.env.PUBLIC_URL
               }/images/scramn-on-the-way-home-otw-home-fishscales-nappy-roots.jpg`}
               className="mainImage"
+              alt="Scramn - On The Way Home / OTW Home"
             />
           </a>
           <h3>
